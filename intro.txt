@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Phùng Hữu Vinh
+=======
+Xin chào, tôi là Phùng Hữu Vinh
+>>>>>>> feature-update
 Tôi học công nghệ thông tin...
 ...
 Sở thích: Đọc sách, Lập trình, Du lịch
