@@ -1,0 +1,3 @@
+- Học Git giúp quản lý code tốt
+- Làm việc nhóm hiệu quả
+- Hiểu rõ lịch sử dự án
